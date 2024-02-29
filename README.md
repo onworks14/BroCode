@@ -15,3 +15,10 @@
 ### <img src='./thumbnail/weather-app.jpg' width="200" height="150">
 ## Credit:
 ### [Icon Image](https://emojipedia.org/)
+
+# Bro Code Color Picker
+## Tutorial:
+### [YouTube color picker app ☀️](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+## Live Demo:
+### [Color Picker](./color-picker)
+### <img src='./thumbnail/weather-app.jpg' width="200" height="150">
