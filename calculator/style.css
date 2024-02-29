@@ -69,6 +69,6 @@ button:active {
   button {
     width: 25px;
     height: 75px;
-    border-radius: 20px;
+    font-size: 1.5rem;
   }
 }
