@@ -6,6 +6,7 @@
 ## Live Demo:
 ### [Calculator](./calculator)
 ### <img src='./thumbnail/calculator.jpg' width="200" height="150">
+<hr>
 
 # Bro Code Weather App
 ## Tutorial:
@@ -15,6 +16,7 @@
 ### <img src='./thumbnail/weather-app.jpg' width="200" height="150">
 ## Credit:
 ### [Icon Image](https://emojipedia.org/)
+<hr>
 
 # Bro Code Color Picker
 ## Tutorial:
@@ -22,6 +24,7 @@
 ## Live Demo:
 ### [Color Picker](./color-picker)
 ### <img src='./thumbnail/color-picker.jpg' width="200" height="150">
+<hr>
 
 # Bro Code StopWatch
 ## Tutorial:
@@ -29,3 +32,12 @@
 ## Live Demo:
 ### [StopWatch](./stopWatch)
 ### <img src='./thumbnail/stopWatch.jpg' width="200" height="150">
+<hr>
+
+# Bro Code To Do List
+## Tutorial:
+### [YouTube to-do-list App ☀️](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+## Live Demo:
+### [To Do List](./to-do-list)
+### <img src='./thumbnail/stopWatch.jpg' width="200" height="150">
+<hr>
