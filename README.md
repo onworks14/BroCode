@@ -5,7 +5,7 @@
 ### [YouTube #58 07:54:06 ⭐ Calculator program 🖩](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 ## Live Demo:
 ### [Calculator](./calculator)
-### <img src='./thumbnail/calculator.jpg' width="200" height="150"><hr>
+### <img src='./thumbnail/calculator.jpg' width="200" height="150">
 
 # Bro Code Weather App
 ## Tutorial:
@@ -21,11 +21,11 @@
 ### [YouTube color picker app ☀️](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
 ## Live Demo:
 ### [Color Picker](./color-picker)
-### <img src='./thumbnail/weather-app.jpg' width="200" height="150">
+### <img src='./thumbnail/color-picker.jpg' width="200" height="150">
 
 # Bro Code StopWatch
 ## Tutorial:
-### [YouTube color picker app ☀️](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+### [YouTube StopWatch App ☀️](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
 ## Live Demo:
-### [StopWatch](./color-picker)
-### <img src='./thumbnail/weather-app.jpg' width="200" height="150">
+### [StopWatch](./stopWatch)
+### <img src='./thumbnail/stopWatch.jpg' width="200" height="150">
