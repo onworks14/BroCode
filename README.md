@@ -22,3 +22,10 @@
 ## Live Demo:
 ### [Color Picker](./color-picker)
 ### <img src='./thumbnail/weather-app.jpg' width="200" height="150">
+
+# Bro Code StopWatch
+## Tutorial:
+### [YouTube color picker app ☀️](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+## Live Demo:
+### [StopWatch](./color-picker)
+### <img src='./thumbnail/weather-app.jpg' width="200" height="150">
