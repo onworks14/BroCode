@@ -71,4 +71,8 @@ button:active {
     height: 75px;
     font-size: 1.5rem;
   }
+  #keys {
+    gap: 5px;
+    padding: 15px;
+  }
 }
