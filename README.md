@@ -40,6 +40,6 @@
 
 # Expense Tracker
 ## Tutorial: [Expense Tracker App ☀️](https://www.youtube.com/watch?v=hNPwdOZ3qFU)
-## Live Demo: [Expense Tracker](./expense-tracler)
+## Live Demo: [Expense Tracker](./expense-tracker)
 <img src='./thumbnail/expense-tracker.png' width="200" height="150">
 <hr>
