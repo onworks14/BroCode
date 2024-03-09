@@ -43,3 +43,9 @@
 ## Live Demo: [Expense Tracker](./expense-tracker)
 <img src='./thumbnail/expense-tracker.png' width="200" height="150">
 <hr>
+
+# Task Tracker
+## Tutorial: [Expense Tracker App ☀️](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+## Live Demo: [Task Tracker](./task-tracker)
+<img src='./thumbnail/task-tracker.png' width="200" height="150">
+<hr>
