@@ -55,3 +55,9 @@
 ## Live Demo: [Fancy Digital Clock](./fancy-digital-clock)
 <img src='./thumbnail/fancy-digital-clock.png' width="200" height="150">
 <hr>
+
+# Cheap AI Chess
+## Credit: [Cheap AI Chess ☀️](https://codepen.io/jak_e/pen/JjRGQPY)
+## Live Demo: [Cheap AI Chess](./cheap-ai-chess)
+<img src='./thumbnail/cheap-ai-chess.png' width="200" height="150">
+<hr>
