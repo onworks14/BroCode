@@ -49,3 +49,9 @@
 ## Live Demo: [Task Tracker](./task-tracker)
 <img src='./thumbnail/task-tracker.png' width="200" height="150">
 <hr>
+
+# Fancy Digital Clock
+## Credit: [Fancy Digital Clock App ☀️](https://codepen.io/Hyperplexed/pen/XWeaWGL)
+## Live Demo: [Fancy Digital Clock](./fancy-digital-clock)
+<img src='./thumbnail/fancy-digital-clock.png' width="200" height="150">
+<hr>
