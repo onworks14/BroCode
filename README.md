@@ -73,3 +73,9 @@
 ## Live Demo: [Image Slider](./image-slider)
 <img src='./thumbnail/image-slider.png' width="200" height="150">
 <hr>
+
+# Flip A Coin
+## Tutorial: [Flip A Coin ☀️](https://www.youtube.com/watch?v=yXEcd0eGrpw)
+## Live Demo: [Flip A Coin](./flip-a-coin)
+<img src='./thumbnail/flip-a-coin.png' width="200" height="150">
+<hr>
