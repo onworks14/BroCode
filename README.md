@@ -61,3 +61,9 @@
 ## Live Demo: [Cheap AI Chess](./cheap-ai-chess)
 <img src='./thumbnail/cheap-ai-chess.png' width="200" height="150">
 <hr>
+
+# Roll The Dice
+## Tutorial: [Roll The Dice ☀️](https://www.youtube.com/watch?v=6CMfZkLntX8)
+## Live Demo: [Roll The Dice](./roll-the-dice)
+<img src='./thumbnail/roll-the-dice.png' width="200" height="150">
+<hr>
