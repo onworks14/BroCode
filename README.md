@@ -67,3 +67,9 @@
 ## Live Demo: [Roll The Dice](./roll-the-dice)
 <img src='./thumbnail/roll-the-dice.png' width="200" height="150">
 <hr>
+
+# Image Slider
+## Tutorial: [Image Slider ☀️](https://www.youtube.com/watch?v=-ba_hZxgNhU)
+## Live Demo: [Image Slider](./image-slider)
+<img src='./thumbnail/image-slider.png' width="200" height="150">
+<hr>
