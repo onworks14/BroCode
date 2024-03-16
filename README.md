@@ -82,6 +82,6 @@
 
 # Pokemon Card Generator
 ## Tutorial: [Pokemon Card Generator ☀️](https://www.youtube.com/watch?v=_JUSpgchD1I)
-## Live Demo: [Pokemon Card Generator](./flip-a-coin)
+## Live Demo: [Pokemon Card Generator](./pokemon-card-generator)
 <img src='./thumbnail/pokemon-card-generator.jpg' width="200" height="150">
 <hr>
