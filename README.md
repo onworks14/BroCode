@@ -85,3 +85,9 @@
 ## Live Demo: [Pokemon Card Generator](./pokemon-card-generator)
 <img src='./thumbnail/pokemon-card-generator.jpg' width="200" height="150">
 <hr>
+
+# Gradient Generator
+## Tutorial: [Gradient Generator ☀️](https://www.youtube.com/watch?v=_JUSpgchD1I)
+### Live Demo: [Gradient Generator](./gradient-generator)
+<img src='./thumbnail/gradient-generator.png' width="200" height="150">
+<hr>
