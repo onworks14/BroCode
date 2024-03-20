@@ -91,3 +91,9 @@
 ### Live Demo: [Gradient Generator](./gradient-generator)
 <img src='./thumbnail/gradient-generator.png' width="200" height="150">
 <hr>
+
+# Calculator App
+## Tutorial: [Calculator App ☀️](https://www.youtube.com/watch?v=I0lBiOtA6hc)
+### Live Demo: [Calculator App](./bad-calculator)
+<img src='./thumbnail/bad-calculator.png' width="200" height="150">
+<hr>
