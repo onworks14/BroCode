@@ -8,8 +8,6 @@
 
 # Weather App
 ## Tutorial: [Weather App project ☀️](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
-## Credit:
-### [Icon Image](https://emojipedia.org/)
 ## Live Demo: [Weather App](./weather-app)
 <img src='./thumbnail/weather-app.png' width="200" height="150">
 <hr>
