@@ -99,5 +99,5 @@
 # Image Checker
 ## Tutorial: [Image Checker ☀️](https://www.youtube.com/watch?v=x8U2MTTEjtI)
 ### Live Demo: [Image Checker](./image-checker)
-<img src='./thumbnail/image-checker.png' width="200" height="150">
+<img src='./thumbnail/image-checker.jpg' width="200" height="150">
 <hr>
