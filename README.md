@@ -97,3 +97,9 @@
 ### Live Demo: [Calculator App](./bad-calculator)
 <img src='./thumbnail/bad-calculator.png' width="200" height="150">
 <hr>
+
+# Image Checker
+## Tutorial: [Image Checker ☀️](https://www.youtube.com/watch?v=x8U2MTTEjtI)
+### Live Demo: [Image Checker](./image-checker)
+<img src='./thumbnail/image-checker.png' width="200" height="150">
+<hr>
