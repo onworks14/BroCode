@@ -107,3 +107,9 @@
 ### Live Demo: [A Weather App](./a-weather-app)
 <img src='./thumbnail/a-weather-app.jpg' width="200" height="150">
 <hr>
+
+# Currency Converter
+## Tutorial: [Currency Converter ⛅](https://m.youtube.com/watch?v=0_Lwi5ucGwM)
+### Live Demo: [Currency Converter](./currency-converter)
+<img src='./thumbnail/currency-converter.jpg' width="200" height="150">
+<hr>
