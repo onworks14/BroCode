@@ -101,3 +101,9 @@
 ### Live Demo: [Image Checker](./image-checker)
 <img src='./thumbnail/image-checker.jpg' width="200" height="150">
 <hr>
+
+# A Weather App
+## Tutorial: [A Weather App ⛅](https://m.youtube.com/watch?v=5e090aVUKro)
+### Live Demo: [A Weather App](./a-weather-app)
+<img src='./thumbnail/a-weather-app.jpg' width="200" height="150">
+<hr>
